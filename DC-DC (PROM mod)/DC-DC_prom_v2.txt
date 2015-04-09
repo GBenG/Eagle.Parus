@@ -1,0 +1,22 @@
+Bill of Materials from DC-DC_prom_v2.sch, 23 parts, grouped by values, as of 12.01.2015 14:12:36
+
+Qty	Description						Value		Package
+1	Single Phase 1.0 AMP Glass Passivated Bridge Rectifier	DBS107G		DBS
+1	POLARIZED CAPACITOR, European symbol			100mf 35v	E2,5-7
+2	CAPACITOR, European symbol				100n		C0805
+1	CAPACITOR, European symbol				470pf		C0805
+1	POLARIZED CAPACITOR, European symbol			100mf 6.3v	E2,5-7
+2	1N4148 General Purpose Rectifie				LL4148		SOD80_DO213AA_MINIMELF
+1	1.0A SCHOTTKY BARRIER RECTIFIER				1N581_12MM	DO41-12
+1	DC/DC converter MC34063 in SO08.			MC34063-SO	SO8
+1	INDUCTOR, American symbol				220mH		6000-XXXX-RC
+1	RESISTOR, European symbol				R1*		M0805
+1	RESISTOR, European symbol				R2*		M0805
+1	RESISTOR, European symbol				0		M1406
+1	RESISTOR, European symbol				10k		M0805
+4	RESISTOR, European symbol				1		M1206
+1	 							 		SOT89
+1	NPN DARLINGTON TRANSISTOR				BD679		TO126AV
+2	CONNECTOR						 		AK500/2
+
+

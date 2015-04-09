@@ -1,0 +1,36 @@
+Bill of Materials from CMD_Light.sch, 41 parts, grouped by values, as of 11.03.2015 11:14:35
+
+Device           Value        Package       Qty
+DBDB107G         DB107G       DB            1
+CPOL-EUE3.5-8    68uF*        E3,5-8        1
+CPOL-EUE3.5-8    100uf 16v    E3,5-8        1
+CPOL-EUE3.5-8    220uf 16v    E3,5-8        2
+C-EU050-035X075  100n         C050-035X075  2
+CPOL-EUE5-10.5   1000uf 16v   E5-10,5       1
+C-EU075-063X106  0.01uF 400v  C075-063X106  1
+1N4004_          1N4148       DO41-8        1
+1N4004           1N4148       DO41-10       1
+78L08Z           78L08Z       TO92          1
+4001N            4001N        DIL14         1
+LED3MM                        LED3MM        1
+MOC3042M         MOC3052      DIL06         1
+BC327-40         BC327-40     TO92-EBC      2
+BC338-40         BC337-40     TO92-EBC      1
+R-EU_0207/10     620          0207/10       1
+R-EU_0207/10     5,1k         0207/10       6
+R-EU_0207/10     330          0207/10       1
+R-TRIMM3339P                  RTRIM3339P    1
+R-EU_0207/10     3,9k         0207/10       1
+R-EU_0207/10     390          0207/10       1
+R-EU_0411/12     39           0411/12       1
+R-EU_0207/12     3,9k         0207/12       1
+F/CM12P          F/CM12P      F/CM12P       1
+BT138-V          BT138-V      TO220BV       1
+AK500/2          GERKON       AK500/2       1
+AK500/2          100k         AK500/2       3
+AK500/2          LED          AK500/2       1
+AK500/2          TRIAC        AK500/2       1
+AK500/2          12VAC        AK500/2       1
+AK500/2          TERM         AK500/2       1
+
+

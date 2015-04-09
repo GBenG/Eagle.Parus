@@ -1,0 +1,7 @@
+(gerbv-file-version! "2.0A")
+(define-layer! 3 (cons 'filename "Dimension.gbr")(cons 'visible #t)(cons 'color #(0 0 0)))
+(define-layer! 2 (cons 'filename "bottom_metal.gbr")(cons 'visible #t)(cons 'color #(26234 26234 26234)))
+(define-layer! 1 (cons 'filename "top_silk.gbr")(cons 'visible #t)(cons 'color #(0 0 0)))
+(define-layer! 0 (cons 'filename "drill.drl")(cons 'visible #t)(cons 'color #(0 0 0))(cons 'attribs (list (list 'autodetect 'Boolean 1) (list 'zero_supression 'Enum 0) (list 'units 'Enum 0) (list 'digits 'Integer 4))))
+(define-layer! -1 (cons 'filename "D:/SPS/EAGLE-7.0.0/eagle/NewTimers/GERBER")(cons 'visible #f)(cons 'color #(54528 43773 18124)))
+(set-render-type! 2)

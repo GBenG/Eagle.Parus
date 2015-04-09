@@ -1,0 +1,36 @@
+Bill of Materials from CMD_Light.sch, 41 parts, grouped by values, as of 15.01.2015 14:24:56
+
+Part				Value
+B1				DB107G
+C1				68uF*
+C2				100uf 16v
+C3, C5				220uf 16v
+C4, C16				100n
+C6				1000uf 16v
+C8				0.01uF 400v
+D1				1N4148
+D2				1N4148
+IC1				78L08Z
+IC2				4001N
+LED2				Green
+OK1				MOC3052
+Q1, Q2				BC327-40
+Q3				BC337-40
+R1				620
+R2, R3, R4, R8, R9, R27		5,1k
+R5				330
+R6				22k
+R7				3,9k
+R12				390
+R13				39
+R28				3,9k
+SG1				F/CM12P
+T1				BT138-V
+X1				GERKON
+X2, X5, X7			100k
+X3				LED
+X4				TRIAC
+X6				12VAC
+X8				TERM
+
+
